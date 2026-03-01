@@ -1,4 +1,4 @@
 # action-repo
 
-"Test Push for the project!!"
-This is the demo video
+"Test Push"
+This is the demo
